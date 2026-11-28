@@ -23,11 +23,16 @@ A three-page Power BI report (Overview, Products, Regions) built from the cleane
 
 The Overview page has KPI cards for total sales, total profit, profit margin, total orders, and year-over-year sales growth, plus monthly sales by year, sales and profit by year, sales by category and segment, and profit margin by region. The Products page shows profit by sub-category, a category and sub-category treemap, and a table of sales, profit, margin, quantity, and average discount. The Regions page covers discounts and returns: profit by state, profit margin by discount band, sales and return rate by region, and a state table of sales and profit. Every page has slicers, page navigation buttons, and an email button.
 
+[Task2_Superstore_Dashboard.pdf](https://github.com/user-attachments/files/35545536/Task2_Superstore_Dashboard.pdf)
+
+
 ## Task 3: Telco churn analysis
 
 I grouped customers into tenure cohorts and contract types, built a cohort retention matrix and Kaplan-Meier retention curves, compared churn across customer groups, and finished with retention recommendations.
 
 26.5% of customers have churned (1,869 of 7,043). Month-to-month customers churn at 42.7%, against 11.3% on one-year contracts and 2.8% on two-year contracts, and 55% of all churned customers left within their first 12 months. Fiber optic customers without tech support churn at 49%, compared with 23% for those with it. The highest-risk group is month-to-month, fiber optic customers paying by electronic check: 1,307 customers with a 60% churn rate. The file has no sign-up dates, so the cohorts are tenure bands and not calendar cohorts.
+
+<img width="1440" height="880" alt="cohort_retention_matrix" src="https://github.com/user-attachments/assets/600556a4-293d-4b3a-b945-aeab96973f87" />
 
 ## Task 4: Financial dashboard
 
@@ -36,6 +41,8 @@ A three-page Power BI report (Overview, Performance, Scenario) built on the Micr
 The Overview page shows gross sales, discounts, net sales, COGS, profit, and margin; quarterly net sales, COGS, and profit; a waterfall from gross sales to profit; profit margin by quarter; and net sales by country and segment. The Performance page shows profit by segment, margin and COGS by product, and a segment-by-product margin table. On the Scenario page, you can change units sold, discount, and unit cost and set a target margin, and the dashboard compares scenario profit and margin with the actual figures.
 
 Net sales were $118.7M and profit $16.9M, a margin of 14.2%. Every loss-making row sits in the Enterprise segment, which has a margin of -3.1%.
+
+[Task4_Financial_Dashboard.pdf](https://github.com/user-attachments/files/35545557/Task4_Financial_Dashboard.pdf)
 
 ## Problems I found in the data
 
